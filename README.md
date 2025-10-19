@@ -36,6 +36,8 @@ wget -qO- https://raw.githubusercontent.com/leoliu0605/BoxPlus/main/install.sh |
 - [ ] bin <-> hex
 - [ ] hex <-> dfu
 - [ ] bin <-> dfu
+- [ ] [git-setup](https://github.com/leoliu0605/npm-git-setup)
+- [ ] [quick-alias](https://github.com/leoliu0605/scripts)
 
 ## Tech Reference
 
