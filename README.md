@@ -24,24 +24,27 @@ brew install boxplus
 wget -qO- https://raw.githubusercontent.com/leoliu0605/BoxPlus/main/install.sh | sh
 ```
 
-## Key Feature
+## Feature
 
 安裝後，使用 `bp <tool> <option> ...` 來使用此工具。
 
 ## TODO
 
-- [ ] pdf
+- [ ] pdf (
   - [ ] encrypt / decrypt
   - [ ] merge / split
+  - https://github.com/DDULDDUCK/every-pdf
+  - https://github.com/ArtifexSoftware/mupdf
+  - https://github.com/darkthread/LitePdfMerger
 - [ ] bin <-> hex
 - [ ] hex <-> dfu
 - [ ] bin <-> dfu
-- [ ] [git-setup](https://github.com/leoliu0605/npm-git-setup)
+- [ ] [quick-git-setup](https://github.com/leoliu0605/npm-git-setup)
 - [ ] [quick-alias](https://github.com/leoliu0605/scripts)
+- [ ] file-converter
+  - https://github.com/VERT-sh/VERT
+  - https://github.com/Tichau/FileConverter
 
-## Tech Reference
+## Links
 
 - [uv](https://github.com/astral-sh/uv)
-- https://github.com/DDULDDUCK/every-pdf
-- https://github.com/ArtifexSoftware/mupdf
-- https://github.com/darkthread/LitePdfMerger
