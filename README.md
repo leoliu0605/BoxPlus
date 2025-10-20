@@ -44,3 +44,4 @@ wget -qO- https://raw.githubusercontent.com/leoliu0605/BoxPlus/main/install.sh |
 - [uv](https://github.com/astral-sh/uv)
 - https://github.com/DDULDDUCK/every-pdf
 - https://github.com/ArtifexSoftware/mupdf
+- https://github.com/darkthread/LitePdfMerger
