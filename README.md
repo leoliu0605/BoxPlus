@@ -48,3 +48,4 @@ wget -qO- https://raw.githubusercontent.com/leoliu0605/BoxPlus/main/install.sh |
 ## Links
 
 - [uv](https://github.com/astral-sh/uv)
+- https://github.com/sxyazi/yazi
