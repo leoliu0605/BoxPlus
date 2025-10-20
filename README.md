@@ -30,7 +30,7 @@ wget -qO- https://raw.githubusercontent.com/leoliu0605/BoxPlus/main/install.sh |
 
 ## TODO
 
-- [ ] pdf (
+- [ ] pdf
   - [ ] encrypt / decrypt
   - [ ] merge / split
   - https://github.com/DDULDDUCK/every-pdf
